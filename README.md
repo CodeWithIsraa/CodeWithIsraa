@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="110" width="110" />
+<img align="right" src="https://raw.githubusercontent.com/CodeWithIsraa/CodeWithIsraa/main/profile.jpg" alt="Israa Mohamed" height="130" width="130" style="border-radius: 50%; object-fit: cover; border: 2px solid #007ACC;" />
 
 ###
 
@@ -103,7 +103,6 @@ Computer Science student with a strong foundation in problem-solving and softwar
 <h2 align="left">📈 GitHub Activity Snake 🐍</h2>
 
 ###
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/CodeWithIsraa/CodeWithIsraa/output/snake.svg" alt="Snake animation" />
 
