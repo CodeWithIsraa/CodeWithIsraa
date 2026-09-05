@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Israa Mohamed</h1>
+<h1 align="left">Hi 👋! I'm Israa Mohammed</h1>
 
 ###
 
@@ -9,7 +9,6 @@ Computer Science student with a strong foundation in problem-solving and softwar
 - 🏆 **Technical Head** @ Microsoft Student Partners (MSP MIU) — leading technical workshops & mentoring members
 - 🏅 **ECPC Contestant** & competitive programming enthusiast
 - 💻 Building modern web applications using React, Next.js, TypeScript & Node.js
-- 🧠 Continuously mastering Data Structures, Algorithms, and Object-Oriented Design
 
 ###
 
@@ -89,13 +88,5 @@ Computer Science student with a strong foundation in problem-solving and softwar
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
-
-###
-
-<h2 align="left">📈 GitHub Activity Snake 🐍</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/CodeWithIsraa/CodeWithIsraa/output/snake.svg" alt="Snake animation" />
 
 ###
