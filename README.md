@@ -2,25 +2,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,17,25&height=200&section=header&text=Hi%20there,%20I'm%20Israa%20Mohamed%20✨&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20|%20Technical%20Head%20@%20MSP%20MIU&descFontSize=18&descAlignY=62" width="100%"/>
 
-  <a href="https://github.com/CodeWithIsraa">
-    <img src="https://komarev.com/ghpvc/?username=CodeWithIsraa&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  </a>
-
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/israa-mohammed-2072a438b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/isaamo07" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://vjudge.net/user/israacode01" target="_blank">
-    <img src="https://img.shields.io/badge/Vjudge-555555?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="mailto:israamohammedcs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
 </div>
 
 <br/>
@@ -43,15 +24,31 @@ Bridging software design, algorithms, and active community tech leadership.
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎓 Education & Milestones</h4>
+      <h4>🎓 Education</h4>
       <ul>
         <li><b>B.Sc. in Computer Science</b> — <i>Misr International University (MIU)</i></li>
-        <li><b>Competitive Programming:</b> ECPC Contestant & active CP solver.</li>
-        <li><b>Focus:</b> Data Structures, Distributed Systems, Web Architectures.</li>
+        <li><b>Relevant coursework:</b> Web Development · Data Structures & Algorithms · OOP · Database Systems</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### 🧠 Problem Solving & Competitive Programming
+
+- 🏆 **ECPC Contestant** & Passionate Problem Solver.
+- Actively solving on competitive platforms & diving deep into Algorithms and Data Structures.
+
+<p align="left">
+  <a href="https://codeforces.com/profile/isaamo07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-isaamo07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://vjudge.net/user/israacode01" target="_blank">
+    <img src="https://img.shields.io/badge/Vjudge-israacode01-555555?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -109,6 +106,20 @@ Bridging software design, algorithms, and active community tech leadership.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithIsraa&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" width="48%" />
 </div>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/israa-mohammed-2072a438b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:israamohammedcs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
