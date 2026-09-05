@@ -1,7 +1,8 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,17,25&height=200&section=header&text=Hi%20there,%20I'm%20Israa%20Mohamed%20✨&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20|%20Technical%20Head%20@%20MSP%20MIU&descFontSize=18&descAlignY=62" width="100%"/>
-
+  <h1>Hi there, I'm Israa Mohamed 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Technical+Head+%40+MSP+Tech+Club;Problem+Solver+%26+ECPC+Contestant" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
