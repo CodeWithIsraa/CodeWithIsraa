@@ -75,8 +75,6 @@ Computer Science student with a strong foundation in problem-solving and softwar
 
 ###
 
-<h2 align="left">📊 GitHub Stats & Activity</h2>
-
 ###
 
 <div align="left">
