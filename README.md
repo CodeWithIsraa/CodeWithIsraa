@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋! I'm Israa Mohammed</h1>
+<h1 align="left">Hi 👋! I'm Israa Mohammed</h1>
 
 ###
 
@@ -12,7 +12,7 @@ Computer Science student with a strong foundation in problem-solving and softwar
 
 ###
 
-<h2 align="left">🤝 Leadership & Activities</h2>
+<h2 align="left">💼 Leadership & Activities</h2>
 
 - **Technical Head** — Microsoft Student Partners (MSP MIU)
   - Leading technical roadmaps, learning tracks, and technical sessions
@@ -37,7 +37,7 @@ Computer Science student with a strong foundation in problem-solving and softwar
 
 ###
 
-<h2 align="left">🛠️ Tools & Technologies</h2>
+<h2 align="left">💻 Tools & Technologies</h2>
 
 ###
 
@@ -72,7 +72,7 @@ Computer Science student with a strong foundation in problem-solving and softwar
 <h2 align="left">🎓 Education</h2>
 
 **Bachelor of Computer Science** — Misr International University (MIU)  
-*Relevant Coursework:* Web Development · Data Structures & Algorithms · Object-Oriented Programming (OOP) · Database Systems
+*Relevant Coursework:* DLD · Data Structures & Algorithms · Object-Oriented Programming (OOP)
 
 ###
 
