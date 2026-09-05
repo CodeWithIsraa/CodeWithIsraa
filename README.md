@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" src="https://raw.githubusercontent.com/CodeWithIsraa/CodeWithIsraa/main/profile.jpg" alt="Israa Mohamed" height="130" width="130" style="border-radius: 50%; object-fit: cover; border: 2px solid #007ACC;" />
+<img align="right" src="./profile.jpg" alt="Israa Mohamed" height="130" width="130" style="border-radius: 50%; object-fit: cover; border: 2px solid #007ACC;" />
 
 ###
 
