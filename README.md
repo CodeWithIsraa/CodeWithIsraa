@@ -12,7 +12,7 @@ Computer Science student with a strong foundation in problem-solving and softwar
 
 ###
 
-<h2 align="left">💼 Leadership & Activities</h2>
+<h2 align="left">📌 Leadership & Activities</h2>
 
 - **Technical Head** — Microsoft Student Partners (MSP MIU)
   - Leading technical roadmaps, learning tracks, and technical sessions
