@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" src="./profile.jpg" alt="Israa Mohamed" height="130" width="130" style="border-radius: 50%; object-fit: cover; border: 2px solid #007ACC;" />
-
-###
-
 **Computer Science Student @ MIU · Technical Head @ MSP Tech Club · Aspiring Full-Stack Developer**
 
 Computer Science student with a strong foundation in problem-solving and software engineering. Passionate about building functional, user-centric web applications, mentoring peers, and tackling algorithmic challenges.
@@ -14,10 +10,6 @@ Computer Science student with a strong foundation in problem-solving and softwar
 - 🏅 **ECPC Contestant** & competitive programming enthusiast
 - 💻 Building modern web applications using React, Next.js, TypeScript & Node.js
 - 🧠 Continuously mastering Data Structures, Algorithms, and Object-Oriented Design
-
-###
-
-<br clear="both">
 
 ###
 
