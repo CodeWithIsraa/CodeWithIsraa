@@ -8,7 +8,7 @@ Computer Science student with a strong foundation in problem-solving and softwar
 
 - 🏆 **Technical Head** @ Microsoft Student Partners (MSP MIU) — leading technical workshops & mentoring members
 - 🏅 **ECPC Contestant** & competitive programming enthusiast
-- 💻 Building modern web applications using React, Next.js, TypeScript & Node.js
+- 💻 Building modern web applications using React, Next.js, TypeScript.
 
 ###
 
@@ -16,7 +16,7 @@ Computer Science student with a strong foundation in problem-solving and softwar
 
 - **Technical Head** — Microsoft Student Partners (MSP MIU)
   - Leading technical roadmaps, learning tracks, and technical sessions
-  - Organizing hands-on workshops in programming fundamentals and web development
+  - Organizing hands on workshops in programming fundamentals and web development
   - Mentoring students in problem solving and core computer science topics
 
 ###
