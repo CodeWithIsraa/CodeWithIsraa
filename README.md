@@ -27,8 +27,8 @@ Computer Science student with a strong foundation in problem-solving and softwar
 - Regular problem solver across competitive platforms:
 
 <div align="left">
-  <a href="https://codeforces.com/profile/isaamo07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=isaamo07&color=1F8ACB&logoColor=white&style=for-the-badge" height="35" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/imocode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=imocode&color=1F8ACB&logoColor=white&style=for-the-badge" height="35" alt="Codeforces" />
   </a>
   <a href="https://vjudge.net/user/israacode01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Vjudge&logo=codeforces&label=israacode01&color=555555&logoColor=white&style=for-the-badge" height="35" alt="Vjudge" />
